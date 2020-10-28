@@ -28,6 +28,10 @@
     <td>17063</td>
   </tr>
 </table>
+
 <img src="https://image.shutterstock.com/image-vector/vector-set-olympic-sports-icons-260nw-1422662216.jpg" alt="Different kinds of sports." width="722" height="280">
+
+<a href=" https://taltech.ee/">Visit taltech.ee!</a>
+206840
 </body>
 </html>
