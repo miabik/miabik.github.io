@@ -3,7 +3,7 @@
 <h2>Hello</h2>
 </head>
 <body>
-<p>This is the first website, that I have ever made. So here's a little table about most ppopular sports in Estonia in 2020 and how many people take part in these sports.</p>
+<p>This is the first website, that I have ever made. So here's a little table about most popular sports in Estonia in 2020 and how many people take part in these sports.</p>
 
 <h3>Most popular sports in Estonia.</h3>
 <table>
